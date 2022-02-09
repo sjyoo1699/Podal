@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kr.ac.cnu.cse.termproject.MainActivity">
+
+    <item
+        android:id="@+id/userInfo"
+        android:title="유저 정보"
+        android:orderInCategory="101"
+        app:showAsAction="always"/>
+</menu>
